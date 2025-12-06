@@ -1,0 +1,39 @@
+/* 1 */
+
+.foo {
+    display: flex; flex-direction: row; align-items: center; justify-content: space-between;
+    background-color: rgba(247, 102, 62, 0.685);
+    width: 100vw;
+    height: 50px; 
+    
+
+}
+.background {background-color: rgb(243, 186, 166);
+    width: 100vw;
+    
+    display: flex; flex-direction: row;
+
+}
+
+.big_text {color: aliceblue;  padding: 0px 60px; ;}
+.Hello {margin: 0px; font-size: 50px; padding: 60px 60px 0px;}
+.name {margin: 0px; font-size: 75px; padding: 0px 60px 0px;}
+.this {margin: 0px; font-size: 50px; padding: 0px 60px 0px;}
+.bar {display: flex; flex-direction: row;  }
+.menu-bar {display: flex; padding: 40px ; text-decoration: none; color: black;}
+.imgg {display: flex; flex-direction: row; justify-content: flex-end; }
+.img {padding-left: 100px;}
+
+/* 2 */
+.foo2 {background-color: rgb(243, 186, 166);
+width: 100vw;
+height: 50vw;}
+.ac {color: aliceblue; margin: 0; padding:30px 50px; display: flex; justify-content: center;}
+.tobe1 {padding: 70px; display: flex; flex-direction: row; align-items: center}
+.tobe2 {padding: 70px ; display: flex; flex-direction: row; align-items: center}
+.aa {display: flex;  flex-direction: row; justify-content: center;}
+
+.foo3 {background-color: rgb(243, 186, 166);
+width: 100vw;
+height: 50vw;}
+.cc {display: flex; flex-direction:  center; width: 100px; height: 250px;}
